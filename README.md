@@ -1,1 +1,1 @@
-# kuberenetesprac2026
+# kubernetesprac2026
