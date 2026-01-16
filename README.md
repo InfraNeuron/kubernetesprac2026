@@ -1,0 +1,1 @@
+# kuberenetesprac2026
